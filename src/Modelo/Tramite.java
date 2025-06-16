@@ -8,6 +8,8 @@ package Modelo;
  *
  * @author LENOVO
  */
-public class Borrador {
-    
+public class Tramite {
+    private String fhInicio;
+    private String fhFinal;
+    private String documentosProducto;
 }
